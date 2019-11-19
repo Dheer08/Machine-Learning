@@ -2,8 +2,9 @@
 
 ### All Machine Learning Models will be implemented in python with Detailed Documentation for Learning purposes
 
-##### To clone the repository in your local machine 
-        git clone https://github.com/Dheer08/-Learn-Machine-Learning.git
+#### To clone the repository in your local machine 
+       1.sudo apt install git
+       2.git clone https://github.com/Dheer08/-Learn-Machine-Learning.git
 
 #### Installation GuideLines
 
