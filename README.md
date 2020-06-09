@@ -4,7 +4,7 @@
 
 #### To clone the repository in your local machine 
        1.sudo apt install git
-       2.git clone https://github.com/Dheer08/Learn-Machine-Learning.git
+       2.git clone https://github.com/Dheer08/Machine-Learning.git
 
 #### Installation GuideLines
 
