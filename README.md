@@ -1,6 +1,6 @@
 ## Machine-Learning
 
-### All Machine Learning Models will be implemented in python with Detailed Documentation for Learning purposes
+### All Machine Learning related mathematics,code from scratch,examples and snippets often used in kaggle
 
 #### To clone the repository in your local machine 
        1.sudo apt install git
